@@ -13,6 +13,6 @@ TO DO:
 
 Deleting files lol... easy but i fell asleep and will add first thing
 
-some type of encryption (probaly Aes)
+some type of encryption (Probably Aes)
 
 listing all files by filenames in virtual image
