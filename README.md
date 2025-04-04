@@ -17,10 +17,15 @@ TO DO:
 
 Deleting files lol... easy but i fell asleep and will add first thing (done)
 
-some type of encryption (Probably Aes)
-
 listing all files by filenames in virtual image (done)
 
-add directories and list them and there path... will be done next
+add directories, list them, and read directory file contents... will be done next (done)
+
+make PE files executable, audio files playable, and pdfs viewable
+
+some type of encryption (Probably Aes)
+
+
+
 
 
